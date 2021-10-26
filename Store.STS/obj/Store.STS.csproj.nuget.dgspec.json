@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {}
+    "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {
+    "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj",
+        "projectUniqueName": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj",
         "projectName": "Store.STS",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\obj\\",
+        "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj",
+        "packagesPath": "C:\\Users\\ЗияшИ.NEW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ЗияшИ.NEW\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

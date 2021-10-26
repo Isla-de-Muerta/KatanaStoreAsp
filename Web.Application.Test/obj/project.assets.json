@@ -2945,7 +2945,10 @@
         },
         "runtime": {
           "bin/placeholder/Web.Application.Domain.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Web.Application.Infrastructure/1.0.0": {
         "type": "project",
@@ -2972,7 +2975,10 @@
         },
         "runtime": {
           "bin/placeholder/Web.Application.Infrastructure.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Web.Common/1.0.0": {
         "type": "project",
@@ -9573,19 +9579,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ЗияшИ.NEW\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Application.Test\\Web.Application.Test.csproj",
+      "projectUniqueName": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Application.Test\\Web.Application.Test.csproj",
       "projectName": "Web.Application.Test",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Application.Test\\Web.Application.Test.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Application.Test\\obj\\",
+      "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Application.Test\\Web.Application.Test.csproj",
+      "packagesPath": "C:\\Users\\ЗияшИ.NEW\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ЗияшИ.NEW\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9599,17 +9605,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Store.STS\\Store.STS.csproj"
+            "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj": {
+              "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Store.STS\\Store.STS.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Application.Infrastructure\\Web.Application.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Application.Infrastructure\\Web.Application.Infrastructure.csproj"
+            "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Application.Infrastructure\\Web.Application.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Application.Infrastructure\\Web.Application.Infrastructure.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Order.Api\\Web.Order.Api.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Order.Api\\Web.Order.Api.csproj"
+            "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Order.Api\\Web.Order.Api.csproj": {
+              "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Order.Api\\Web.Order.Api.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Product.Api\\Web.Product.Api.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Web.Application.Test\\Web.Product.Api\\Web.Product.Api.csproj"
+            "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Product.Api\\Web.Product.Api.csproj": {
+              "projectPath": "C:\\Users\\ЗияшИ.NEW\\Downloads\\Web.Application.Test (1)\\Web.Application.Test\\Web.Product.Api\\Web.Product.Api.csproj"
             }
           }
         }
@@ -9719,7 +9725,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   },
